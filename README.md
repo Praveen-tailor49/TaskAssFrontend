@@ -1,4 +1,4 @@
-[![React Task Management App](https://user-images.githubusercontent.com/11765482/52165757-c9407600-272c-11e9-83c9-1d727f79dbad.jpg)](https://www.youtube.com/watch?v=KauDpmmesGA "ReactJS Task Management App")
+<!-- [![React Task Management App](https://user-images.githubusercontent.com/11765482/52165757-c9407600-272c-11e9-83c9-1d727f79dbad.jpg)](https://www.youtube.com/watch?v=KauDpmmesGA "ReactJS Task Management App")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
